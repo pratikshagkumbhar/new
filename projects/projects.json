@@ -2,7 +2,7 @@
   {
     "name": "Smart Home Automation",
     "desc": "ESP32 + MQTT dashboard with PIR sensor and fan/LED control.",
-    "image": "smarthome",
+    "image": "assets/images/projects/smarthome.PNG",
     "category": "basicweb",
     "links": {
       "view": "https://github.com/pratikshagkumbhar/smart_home_automation_ESP32_and_MQTT"
@@ -11,7 +11,7 @@
   {
     "name": "Patient Appointment System",
     "desc": "Full stack website.",
-    "image": "web",
+    "image": "assets/images/projects/web.PNG",
     "category": "basicweb",
     "links": {
       "view": "https://github.com/pratikshagkumbhar/webtech"
